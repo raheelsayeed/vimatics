@@ -2,13 +2,13 @@
 layout: post
 title: "Papers - Patient-Reported-Outcomes"
 categories: [patient-reported-outcomes, papers]
-tags: [patient-reported-outcomes,paper-review]
+tags: [ehr, patient-reported-outcomes,paper-review]
 ---
 
 ### Patient-Reported Outcomes
 
 
-"Patient-Reoirted Outcomes– Are They Living Up to Their Potential?"
+#### "Patient-Reoirted Outcomes– Are They Living Up to Their Potential?"
 Baumhauer, [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1702978)
 
 - Compares PROMIS with Gait-Analysis (GAITRite) 
