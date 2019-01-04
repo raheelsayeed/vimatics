@@ -2,6 +2,7 @@
 layout: post
 title:  "Papers today: Health Information economy"
 tags: [healtheconomy, medicalapps] 
+categories: [papers] 
 -----
 
 
@@ -10,12 +11,14 @@ tags: [healtheconomy, medicalapps]
 ### 1. Federalist Principles for Federated Healthcare Data Networks
 
 _by_ Mandl et al, [PubMed][FPFHDN]
+
 Federalist quering with common data model and data formats benefits all multi-site faceted research. Networked access to data (conditional with agreements) from routine clinical care will help build study trial designs, disease registeries. But needs to be in common/non-proprietary formats to be real-time and multi-site. 
 
 
 ### 2. Finding the missing link for big biomedical data.
 
 _by_ Weber et al, 2014, [JAMA][jama-weber] 
+
 Importance of Big data, and linkages between different datasets. Taking a cue from Google, NSA, Fb. Lack of UPI can pose challenges of linking these sets. Privacy, security concerns exist as well (hard to deidentify once linked). Need to discuss legal, ethical issues for such linkages. 
 
 ### 3. A 21st-Century Health IT System - Creating a Real-World Information Economy
