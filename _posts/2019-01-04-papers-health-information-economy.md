@@ -25,7 +25,8 @@ Importance of Big data, and linkages between different datasets. Taking a cue fr
 
 _by_ Mandl et all, 2017, [NEJM][nejm-mandl] 
 
-
+In 2009, HITECH act provided incentives for "meaningful use" of IT in health $34 billion: promoting EHR use. Real-world evidence is key to advance treatment and research. 21st Century Cures act requires certified HIT products to have an API. 
+Health App information economy. 
 
 
 [FPFHDN]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392383
