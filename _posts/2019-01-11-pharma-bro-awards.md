@@ -4,7 +4,7 @@ title:  "2018 Pharma Bro Awards - excellence in bad science"
 categories: post
 ---
 
-# [Pharma Bro Awards][pharma-bro]– Excellence in Bad Science
+# --> [Pharma Bro Awards][pharma-bro]– Excellence in Bad Science
 
 2nd Annual [SHKRELI][pharma-bro-wiki] awards announced. [Lown Institute][lown] released the ten worst examples of "profiteering and dysfunction in health care". Post begins with a blast:
 
