@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-raheel is all. 
+smart medicine is all. 
