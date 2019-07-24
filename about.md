@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-smart medicine is all. 
+smart medicine is all. and more
