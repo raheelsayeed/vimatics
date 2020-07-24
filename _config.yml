@@ -25,7 +25,7 @@ twitter_username: rsayeed
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: hacker
 plugins:
   - jekyll-feed
 
