@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "2018 Pharma Bro Awards - excellence in bad science"
 categories: post
 ---
