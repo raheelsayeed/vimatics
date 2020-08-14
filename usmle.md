@@ -4,7 +4,7 @@ title: Hacker Mode USMLE
 permalink: /usmle/
 ---
 
-### USMLE Notes
+# USMLE Notes
 
 Goal of this page is to list high yeild principles or mechanisms popularly tested. 
 <ul class="posts">
