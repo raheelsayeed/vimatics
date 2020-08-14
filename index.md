@@ -1,12 +1,22 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-# {%- assign latest_post = site.posts[0] -%}
-
 layout: default
 ---
+
+## Apps
+
+- LabGear ([iOS][ios-labgear]) & ([Android][android-labgear]): Pocket Lab Tests Reference for Physicians
+
+## Code
+
+- [SMART Markers](https://github.com/smartmarkers): Framework for Patient Generated Health Data
+- [Synthetic PRO Generator](https://github.com/raheelsayeed/synthetic-pros): For PROMIS FHIR questionnaires
+
+## Posts
 
 {% for post in site.posts  %}
 <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
+
+
