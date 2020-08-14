@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Aldosterone Escape"
 tags: [usmle, hormones, endocrine]
 ---
