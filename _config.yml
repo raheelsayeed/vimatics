@@ -36,6 +36,9 @@ github:
 
 
 collections:
+    - usmle
+
+collections:
     usmle:
         output: true
         permalink: /usmle/:path/
