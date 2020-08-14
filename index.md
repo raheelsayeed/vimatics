@@ -19,4 +19,5 @@ layout: default
 <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
-
+[ios-labgear]: https://apps.apple.com/us/app/labgear-medical-lab-tests/id350942163
+[android-labgear]: https://play.google.com/store/apps/details?id=com.smartddx.labgearessentials&hl=en_US
