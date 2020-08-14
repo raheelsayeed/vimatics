@@ -4,5 +4,8 @@ title: About
 permalink: /about/
 ---
 
-smart medicine is all. and more
-more
+Home_of_mohammed_raheel_sayeed
+
+This space exists only to ponder over life. Think about things. Log interests
+
+
