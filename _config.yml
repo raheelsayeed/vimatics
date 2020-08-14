@@ -34,6 +34,14 @@ google_analytics: UA-5523503-10
 github:
   is_project_page: false
 
+
+collections:
+    usmle:
+        output: true
+        permalink: /usmle/:path/
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
