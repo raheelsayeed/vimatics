@@ -1,4 +1,10 @@
- <ul class="posts">
+---
+layout: default
+title: Hacker Mode USMLE
+permalink: /usmle/
+---
+
+<ul class="posts">
     {% for post in site.usmle %}
 
       <li>
