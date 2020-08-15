@@ -9,7 +9,7 @@ Commonly seen in African Americans, Bilateral adeopathy, mediastinal
 
 - Bells Palsy
 - Uveitis
-- Granulomas (non-caseating)
+- **Granulomas (non-caseating)**
 - Lupus pernio (SLE Like skin pigmentation)
 - Interstitial fibrosis (restrictive pattern)
 - Erythema nodosum
