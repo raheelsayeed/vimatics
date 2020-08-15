@@ -38,4 +38,12 @@ tags: [respiratory, pathology]
 - egg shell calcification of hilar lymphnodes on CXR
 - Silica may disrupt phagolysosomes and hence Inc susceptibility to Tuberculosiso
 
+### Hypersensitivity Pnemonitis
+
+- Diffuse reticular opacities,
+- type 3,4 Hypersensitivity
+- poorly formed noncaseating **Granulomas**
+
+![](https://en.wikipedia.org/wiki/File:Histology_of_chronic_hypersensitivity_pneumonitis.jpg){:class="img-responsive"}
+
 
