@@ -6,13 +6,15 @@ tags: [respiratory, pathology]
 ### Asbestosis: Lower Lobes
 
 - Inc A-a gradient, Dec DLCO
+- --> Leads to mesothelioma, cancer, caplan syndrome
 - ISPESDOGs
     - Ivory white
     - Supradiaphramatic 
     - Pleural Plaques, Prussian Blue staine (BAL)
     - Effusions (pleural)
     - Dumbbells - ferruginous bodies - golden brown fusiform rods in alveolar sputum
-    - Eff
+    - ONLY lower lobes
+    - 
 
 ### Berylliosis: Upper lobes, aerospace, manufacturing
 
