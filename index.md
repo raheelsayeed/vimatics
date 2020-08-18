@@ -24,7 +24,7 @@ layout: default
 <ul aria-label="posts from {{ year.name }}">
   {% for post in year.items %}
   <li>
-    {% include post/post-list-item.html %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
 </ul>
