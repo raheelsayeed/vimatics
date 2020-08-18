@@ -2,15 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+# {% for post in site.posts  %}
+# <a href="{{ post.url }}">{{ post.title }}</a>
+# {% endfor %}
+
 ---
 
 # Header: Index.html 
 --------------------
 ## Posts
-
-# {% for post in site.posts  %}
-# <a href="{{ post.url }}">{{ post.title }}</a>
-# {% endfor %}
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav class="menu browse by-year text-center" aria-label="year">
