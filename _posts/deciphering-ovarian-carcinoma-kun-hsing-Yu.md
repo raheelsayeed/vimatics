@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [histology, machine-learning]
+tags: [machine-learning] 
+categories: [papers] 
 ---
 
 
