@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-# Header: Index.html 
+# index 
 --------------------
 ## Posts
 
