@@ -9,6 +9,13 @@ tags: [gi]
 
 Liver is unable to convert ammonia to harmless Urea. Ammonia accumulates, goes through to the brain, penetrates the blood brain barrier and causes encephalopathy
 
+### Presentation
+
+
+confusion & asterixis
+
 ### Treatment: Lactulose
 
 Lactulose is a diasaccharide --> acidifies colonic content --> absorbable ammonia to non absorbable ammonium ions --> excreted/trapped in stool --> fecal nitrogen excretion Increase
+
+_contributer: sheeba tauhid imran_
