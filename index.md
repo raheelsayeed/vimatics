@@ -39,8 +39,8 @@ layout: default
 
 ## Talks
 
-- _sept 22, 2020_, [DPHARM](https://theconferenceforum.org/conferences/disruptive-innovations-us/2020-speaking-faculty/raheel-sayeed)
-- _nov 16, 2020_, [AMIA 2020](https://www.amia.org/amia2020/systems-demonstrations)
+- _sep 22, 2020_: [DPHARM](https://theconferenceforum.org/conferences/disruptive-innovations-us/2020-speaking-faculty/raheel-sayeed)
+- _nov 16, 2020_: [AMIA 2020](https://www.amia.org/amia2020/systems-demonstrations)
 
 --------------------
 
