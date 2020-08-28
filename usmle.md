@@ -33,4 +33,9 @@ Goal of this page is to list high yeild principles or mechanisms popularly teste
     {% endfor %}
   </ul>
  
+--------------------
+
+Mohammed Raheel Sayeed, MD; current home: [bch](https://chip.org) [hms](https://hms.harvard.edu);
+[vi](https://vim.org) for informatics;
+<a href="https://twitter.com/rsayeed">@rsayeed</a>
 
