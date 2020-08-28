@@ -9,7 +9,7 @@ permalink: /usmle/
 Goal of this page is to list high yeild principles or mechanisms popularly tested. 
 
 
-{% assign postsByYear = site.usmle | group_by_exp:"note", "note.date | date: '%Y'" %}
+{% assign postsByYear = site.usmle | group_by_exp:"note", "note.date | date: '%m'" %}
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
 <ul aria-label="posts from {{ year.name }}">
