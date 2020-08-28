@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Great work Oxford!"
-categories: [covid19, news]
+tags: [news, covid19] 
+categories: [papers] 
 ---
+
 
 
 #### [They pledged to donate rights to their COVID vaccine, then sold them to pharma](https://www.denverpost.com/2020/08/26/coronavirus-vaccine-rights-sold-pharma/)
