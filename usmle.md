@@ -13,7 +13,7 @@ Goal of this page is to list high yeild principles or mechanisms popularly teste
 _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
-> {{ site.usmle[random].post }}
+> {{ site.usmle[random].title }}
 
 {% assign notesByYear = site.usmle | group_by_exp:"note", "note.date | date: '%m/%d/%Y'" %}
 {% for year in notesByYear %}
