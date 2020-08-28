@@ -13,7 +13,9 @@ Goal of this page is to list high yeild principles or mechanisms popularly teste
 _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
-> {{ site.usmle[random].title }}
+> {{ site.usmle[random].content }}
+
+----
 
 {% assign notesByYear = site.usmle | group_by_exp:"note", "note.date | date: '%m/%d/%Y'" %}
 {% for year in notesByYear %}
@@ -27,17 +29,6 @@ _Random:_
 </ul>
 {% endfor %}
 
-
-<ul class="posts">
-    {% for post in site.usmle %}
-
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
- 
 --------------------
 
 Mohammed Raheel Sayeed, MD; current home: [bch](https://chip.org) [hms](https://hms.harvard.edu);
