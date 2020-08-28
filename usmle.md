@@ -14,7 +14,7 @@ Goal of this page is to list high yeild principles or mechanisms popularly teste
 _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
-> {{ site.usmle[random].content }}
+>    {{ site.usmle[random].content }}
 
 ----
 
