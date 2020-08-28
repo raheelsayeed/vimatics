@@ -7,13 +7,14 @@ permalink: /usmle/
 # USMLE Notes
 
 Goal of this page is to list high yeild principles or mechanisms popularly tested. 
+
 ----
 
 
 _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
-> {{ site.usmle[random].excerpt }}
+> {{ site.usmle[random].content }}
 
 ----
 
