@@ -28,7 +28,7 @@ _Random:_
 <ul aria-label="posts from {{ year.name }}">
   {% for note in year.items %}
   <li>
-    <small>{{note.date | date: "%d %b %Y"}}</small>, <a href="{{ note.url }}">{{ note.title }}</a>
+    <small> {{ note.date | date: "%d %b %Y"}} </small>, <a href="{{ note.url }}">{{ note.date }}</a>
   </li>
   {% endfor %}
 </ul>
