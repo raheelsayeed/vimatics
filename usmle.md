@@ -15,7 +15,7 @@ _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
 {% assign randomnote = site.usmle[random].content %}
->      {{randomnote}}
+>      {{randomnote | markdownify}}
 
 
 ----
