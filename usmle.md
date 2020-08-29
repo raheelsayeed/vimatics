@@ -15,7 +15,6 @@ _Random:_
 
 {% assign random = site.time | date: "%s%N" | modulo: site.usmle.size %}
 {% assign randomnote = site.usmle[random].content %}
-
 ```
 {{randomnote | markdownify | strip_html}}
 ```
@@ -23,7 +22,7 @@ _Random:_
 
 ----
 
-{% assign notesByYear = site.usmle | group_by_exp:"note", "note.date | date: '%m/%d/%Y'" %}
+{% assign notesByYear = site.usmle | group_by_exp:"post", "note.date | date: '%m/%d/%Y'" %}
 {% for year in notesByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
 <ul aria-label="posts from {{ year.name }}">
