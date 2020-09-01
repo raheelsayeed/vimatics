@@ -11,41 +11,41 @@ tags: [step1, usmle, deck]
 - alirocumab, eva ...?
 
 
-#### C-Peptide Halflife?
+### C-Peptide Halflife?
 
 - 35 mins
 
-#### Iatrogenic Complication: Thyroid surgery
+### Iatrogenic Complication: Thyroid surgery
 
 - Hypocalcemia (hypoparathyroidism) --> Chovestek sign
 
-#### ATP-Sensitive K Channel (k-ATP channel)
+### ATP-Sensitive K Channel (k-ATP channel)
 
 - ATP binds to channel causing K influx --> release of Insulin 
 
 
-#### ADominant Hereditary Hypothalamic Diabetes Insipidus 
+### ADominant Hereditary Hypothalamic Diabetes Insipidus 
 
 - Point Mutation in Neurophysin II 
 
-#### TRH stimulates the release of both: 
+### TRH stimulates the release of both: 
 
 - TSH
 - PROLACTIN
 
-#### DOPAMINE ---(-)---> PROLACTIN
+### DOPAMINE ---(-)---> PROLACTIN
 
 
-#### Osteoprotegrin: Decoy binder for RANK-Ligand
+### Osteoprotegrin: Decoy binder for RANK-Ligand
 
 - PTH reduces OPG --> Increased  RANK-L --(+)--> RANK binding --> Activation of Osteoclasts --> Inc calcium resoprtion --> Inc serum Ca+
 
-#### Teriparatide: PTH analogue
+### Teriparatide: PTH analogue
 
 - Intermittent use: Bone formation
 - Continued use: Bone resorption, osteoporosis
 
-#### Site of PTH action? 
+### Site of PTH action? 
 
 - PCT: PTH --(-)---> Na/PO4 cotransporter --> Excretes PO4
 - DCT: PTH --(+)---> Na/Ca Exchanger --> Reabsorpbs Ca
@@ -301,4 +301,4 @@ Alterations in V/Q balance in lungs can increase deadspace ventilation and furth
 - severe stenosis of proximal subclavian artery --> reversal in blood flow from contralateral vertebral artery to ipsilateral verterbral artery
 - __ARM ISCHEMIA in affected EXTREMITY__
 
-### 
+###
