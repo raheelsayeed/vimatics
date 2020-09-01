@@ -47,8 +47,50 @@ tags: [step1, usmle, deck]
 
 #### Site of PTH action? 
 
-- PCT
+- PCT: PTH --(-)---> Na/PO4 cotransporter --> Excretes PO4
+- DCT: PTH --(+)---> Na/Ca Exchanger --> Reabsorpbs Ca
 
-####
 
+
+### FGF-23
+
+- Analogue of PTH
+- Reduces 1alphaHydroxylase --> decrease Calcitriol
+- Needtoverify: _downregulation of NPT gene reduces PO4 absorption_ 
+- ![](https://www.researchgate.net/profile/Patricia_Schenck/publication/236137676/figure/fig13/AS:282664826359819@1444403954203/Megalin-mediated-tubular-recovery-of-vitamin-D-metabolites-following-glomerular.png)
+
+
+### Intermittent PTH/Analogue use?
+
+- Greater proportion of Osteoblastic activity vs Osteoclastic activity
+
+### PTH Action
+
+- PTH --> receptor on Osteoblasts --> Activation --> Inc production of RANK-L and Monocyte Colony Stimulating Factor
+
+- PTH: Inc RANK-L & Inc M-CSF & Dec OPG-decoy
+
+### Hepatic Gluconeogenesis Inhibited by?
+
+- Sepsis
+- Beta Blockers
+- Cytokines
+
+### Insulin Sensitivity is Decreased in CKD
+
+- due to high metabolites & UREA
+
+### Syndrome: Disorientation, sweating, palpitation
+
+- Hypoglycemia
+
+### Glut4
+
+- skeletal muscle 
+- adipose tissue
+- excercise increases glut4
+- Insulin increases glut4 (dependent) 
+
+
+### 
 
