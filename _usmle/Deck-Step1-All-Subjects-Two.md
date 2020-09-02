@@ -56,4 +56,8 @@ _tight occludes and forms barriers_
 - Electrolyte imbalance
 - renal wasting
 
+### 8. Intracellular Ca regulation -Sarcolemma Muscle contraction
+
+- Action potential reaches NMJ inside Sarcolemma --> 3Na/Ca Exchanger (Na influx, Ca efflux in the T-Tubule space --> Ca reenters Cytoplasm via L-Type Ca Channel --+> Ca activates RyR2 receptor on the Sarcoplasmic reticulum --> Ca from Sarcoplasmic Reticulum effluxes into Cytoplasm --> binds to Troponin C --> Muscle contraction
+
 
