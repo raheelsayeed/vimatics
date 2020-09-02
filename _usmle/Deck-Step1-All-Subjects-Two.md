@@ -128,6 +128,8 @@ _tight occludes and forms barriers_
 - deposition of antigens in keratinocytes --> Inc cytotoxoci Tcell response
 - ![](https://img.brainkart.com/extra2/QSmdfhI.jpg)
 - ![](https://www.anatomynote.com/wp-content/uploads/2020/02/19521/Erythema-Multiforme-on-the-body.jpg)
+- ![](https://i.pinimg.com/originals/36/b3/b8/36b3b85099c13dab635ae26599184106.jpg)
+
 
 ### 21. Skin lesion + 1 week history of focal neurologic deficit (seizure)
 
@@ -142,4 +144,37 @@ _tight occludes and forms barriers_
 
 - Beta Hemolytic Streptococcia GROUP ABCD
 
+### 24. Annular ring and scaling plaque five cm in diametr with central clearning?
+
+- Tinea corporis
+- ![](https://i.pinimg.com/originals/36/b3/b8/36b3b85099c13dab635ae26599184106.jpg)
+
+
+### 25. Axillary lymph ndoe dissection is a risk factor for?
+
+- chronic lyphedema. Duhh!
+
+### 26: LMN symptoms with signs of infection (headache, mailaise, fever):
+
+- Poliovirus, anterior horn
+- feco-oral --> oropharynx --> blood --> CNS --> Anterior horn!
+
+### 26: Spinal Lesions
+
+- Caudia equina syndrome:
+    - Loss of knee and ankle reflex + bladder/anal control + saddle anesthesia
+    - along with radicular pain ofcourse!
+
+
+### 27: Port wine stain + kid + glaucoma + seizures?
+
+- Sturge-Weber syndrome
+- Somatic mosaicism - GNAQ
+- Capillary vascular malform --> Port wine stain
+- Leptomeningeal angioma --> seizures
+- Episcleral hemagioma --> Inc ICT --> glaucoma (early oneset)
+
+### 28: Natalizumab associated with JC Virus activaction leading to
+
+- Progressive Multifocal Leukoencephalopathy
 
