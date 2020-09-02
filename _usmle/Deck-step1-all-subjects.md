@@ -485,3 +485,57 @@ If the tumor cell expresses PD-L1 and B7, it avoids T Cell destruction
 - ![](https://d1gk4lfg3bst7c.cloudfront.net/media/wysiwyg/Blog-Images/Cancer_Immunotherapy_PD-1.png)
 
 
+### 83. Plasma Cell neoplasm:
+
+- Eccentric Nuclei prominent nucleoli
+- Clock face chromatin
+- ![](https://images.cram.com/images/upload-flashcards/41/64/91/3416491_m.png)
+
+### 84. Drug reactions with CHELATING agents
+
+- Tetracyclin
+- Fluoroquinolones
+
+### 85. Blood nipple discharge, diagnosis?
+
+- Intraductal papilloma
+
+### 86. Osteonecrosis of JAW is a s/e of?
+
+- Bisphosphonates!
+- commonly used high doses for cancer or oral surgeries
+
+### 87. Abdomen CT
+
+- ![](https://o.quizlet.com/SzZ5c5-APF91mFnlYEZqiA.jpg)
+
+### 88. Cold is intra or extra vascular hemolysis?
+
+- INTRAvascular hemolysis
+- Infection: Mycoplasma, Hematological Malignancies, IgM
+- EAR PINNA 
+
+
+### 89. WARM Agglutination exampels:
+
+- SLE
+- CLL
+- Medications/Penicillin? (combs+)
+- __IgG__
+
+### 90. Calculating Clearance ____ === GFR ?; ____ === RBF?
+
+- __INULIN__ == GFR (freely filtered, no absorption or secretion)
+-- Amount Excreted == Amount Filtered
+- __PAH__ == RPF (freely filtered, some Secretion from tubule
+-- Amount Excreted > Amount Filtered
+
+### Estrogen increases or decreases T4? 
+
+- Increases T4
+- Estrogen Increase --> Inc TBG, Inc Bound-T4 --> Decrease FreeT4 --+>  Hypothalamus (TRH) --+> TSH --+> Thyroid T3,T4 --> Increase T4 free level (restored)
+
+### Needle shaped cholesterol clefts on micrsocopy?
+
+- __AtheroEMBOLIZATION__
+- clefts are surrounded by multi nucleated giants cells
