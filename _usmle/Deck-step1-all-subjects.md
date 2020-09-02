@@ -4,55 +4,55 @@ tags: [step1, usmle, deck]
 ---
 
 
-### Proprotein Convertase Subtilisin/Kexin Type 9 
+### 1. Proprotein Convertase Subtilisin/Kexin Type 9 
 
 - aka PCSK9! 
 - increases degradation of Hepatic LDL receptors --> Inc uptake of LDL into liver --> Decreased LDL serum
 - alirocumab, eva ...?
 
 
-### C-Peptide Halflife?
+### 2. C-Peptide Halflife?
 
 - 35 mins
 
-### Iatrogenic Complication: Thyroid surgery
+### 3. Iatrogenic Complication: Thyroid surgery
 
 - Hypocalcemia (hypoparathyroidism) --> Chovestek sign
 
-### ATP-Sensitive K Channel (k-ATP channel)
+### 4. ATP-Sensitive K Channel (k-ATP channel)
 
 - ATP binds to channel causing K influx --> release of Insulin 
 
 
-### ADominant Hereditary Hypothalamic Diabetes Insipidus 
+### 5. ADominant Hereditary Hypothalamic Diabetes Insipidus 
 
 - Point Mutation in Neurophysin II 
 
-### TRH stimulates the release of both: 
+### 6. TRH stimulates the release of both: 
 
 - TSH
 - PROLACTIN
 
-### DOPAMINE ---(-)---> PROLACTIN
+### 7. DOPAMINE ---(-)---> PROLACTIN
 
 
-### Osteoprotegrin: Decoy binder for RANK-Ligand
+### 8. Osteoprotegrin: Decoy binder for RANK-Ligand
 
 - PTH reduces OPG --> Increased  RANK-L --(+)--> RANK binding --> Activation of Osteoclasts --> Inc calcium resoprtion --> Inc serum Ca+
 
-### Teriparatide: PTH analogue
+### 9. Teriparatide: PTH analogue
 
 - Intermittent use: Bone formation
 - Continued use: Bone resorption, osteoporosis
 
-### Site of PTH action? 
+### 10. Site of PTH action? 
 
 - PCT: PTH --(-)---> Na/PO4 cotransporter --> Excretes PO4
 - DCT: PTH --(+)---> Na/Ca Exchanger --> Reabsorpbs Ca
 
 
 
-### FGF-23
+### 11. FGF-23
 
 - Analogue of PTH
 - Reduces 1alphaHydroxylase --> decrease Calcitriol
@@ -60,31 +60,31 @@ tags: [step1, usmle, deck]
 - ![](https://www.researchgate.net/profile/Patricia_Schenck/publication/236137676/figure/fig13/AS:282664826359819@1444403954203/Megalin-mediated-tubular-recovery-of-vitamin-D-metabolites-following-glomerular.png)
 
 
-### Intermittent PTH/Analogue use?
+### 12. Intermittent PTH/Analogue use?
 
 - Greater proportion of Osteoblastic activity vs Osteoclastic activity
 
-### PTH Action
+### 13. PTH Action
 
 - PTH --> receptor on Osteoblasts --> Activation --> Inc production of RANK-L and Monocyte Colony Stimulating Factor
 
 - PTH: Inc RANK-L & Inc M-CSF & Dec OPG-decoy
 
-### Hepatic Gluconeogenesis Inhibited by?
+### 14. Hepatic Gluconeogenesis Inhibited by?
 
 - Sepsis
 - Beta Blockers
 - Cytokines
 
-### Insulin Sensitivity is Decreased in CKD
+### 15. Insulin Sensitivity is Decreased in CKD
 
 - due to high metabolites & UREA
 
-### Syndrome: Disorientation, sweating, palpitation
+### 16. Syndrome: Disorientation, sweating, palpitation
 
 - Hypoglycemia
 
-### Glut4
+### 17. Glut4
 
 - skeletal muscle 
 - adipose tissue
@@ -92,17 +92,17 @@ tags: [step1, usmle, deck]
 - Insulin increases glut4 (dependent) 
 
 
-### Prophylactic Erythromycin to Newborns
+### 18. Prophylactic Erythromycin to Newborns
 
 - prevent Opthalmia neonatorum by N. Gonorrhea
 - else leads to blindness
 
-### Advanced Directive Types:
+### 19. Advanced Directive Types:
 
 - Living will
 - hospital proxy
 
-### Elizabeth Model for Grief: (stages)
+### 20. Elizabeth Model for Grief: (stages)
 
 - Denial
 - Anger
@@ -301,4 +301,187 @@ Alterations in V/Q balance in lungs can increase deadspace ventilation and furth
 - severe stenosis of proximal subclavian artery --> reversal in blood flow from contralateral vertebral artery to ipsilateral verterbral artery
 - __ARM ISCHEMIA in affected EXTREMITY__
 
-###
+### EF Formula:?
+
+```
+Ef = SV / EDV
+
+SV = EDV - ESV 
+
+Ef = EDV - ESV / EDV 
+
+Normal > 50%
+```
+
+
+### 54. Meds for Chronic Heart Failure with reduced EF (CHFrEF)
+
+- Mortality benefit:
+-- ACE
+-- ARB
+-- Nephrilisin INhib (CI with ACE == angioedema)
+-- Beta blocker : metaprolol
+-- Spironolactone (specially for Pulmonary Edema)
+- No Mortality Benefit:
+-- Diuretics
+-- Digoxin __reduces hospitalization__
+
+### 55. features of HF with Preserved EF
+
+- In Diastolic Dysfunction: EF could be preserved over >50
+- 
+### 56. Formation of Atheroma:
+
+1. Endothelial dysfunction
+2. Cholesterol, HDL, LDL goes into the intima --> monocytes migrate (Macs) --> phaogcytoze LDL become foam cells --> produce growth factors --> collage synthesis in intima, smooth muscle proliferation, extracellular necrotic debri
+
+### 57. Internal carotid artery derived from which arch?
+
+- Pharyngeal arch 3: Common Carotid and Proximal-ICA
+
+### 58. Eccentric Ventricular Enlargement, CO is high/low/normal?
+
+- CO is maintained.
+- LV systolic dysfunction --> LV vent enlargement --> FRANKSTARLING --> __SV Maintained__ --> [YEARS LATER: CHRONIC] --> Cardiac remodelling --> Sarcomeres added in Series to accomodate Inc LV Volume --> Eccentric Hypertrophy --> __SV Still maintained__ --> [DECADE LATER] --> cannot compensate anymore incoming fluid --> Contractile Dysfunction --> __Decompensated Heart Failure__ 
+- CO eventually falls
+
+### 59. Breast Milk does not contained Vitamin ..... and  ......?
+
+- K and D
+
+### 60. B12 absorbed from? and how?
+
+- b12 is absorbed in ILium, its got to survive the stomach acidity! 
+- Helped by __R-protein__ and __IF__
+- b12-protein complex in stomach, R-binder from salivary gland also in stomach --> Stomach acdity separates b12 from protein and binds R-binder --> goes into Duodenum --> Pancreatic Protease splits R from b12 --> IntrinsicFactor (IF) binds b12 --> b12-IF complex absorbed form __ILIUM__ 
+
+### 61. INDIA INK?
+
+
+- Basically detects __GELATINOUS__ capsule
+- ENCAPSULATED budding yeast
+- Cryptococcus Neophhh???
+
+### 62. VHL tumors in renal, adrenal medulla and ..?
+
+- Cerebellar & Retinal hemangioblastomas
+
+### 63. How big are lacunar infarts?
+
+- < 15 mm cavity infarcts
+
+### 64. Microbes causing COPD exacerbation?
+
+Dyspnea and/or cough, Changes in Sputum color
+Physical: __PURSED LIPS__ with prolonged expiration
+
+- Viral
+-- Rhinovirus
+-- Influenza
+-- Parainfluenza
+- Bacteria
+-- H. Infl, Moraxella catarrhalis, Strep Pneumonia
+- Airpoultion, embolism
+
+### 65. IPP becomes equal/greater/less than Airway pressure in Emphysema?
+
+- Greater than airways
+
+
+### 66. Bleomycin sideeffect: causes ____ due to ____?
+
+- Pulmonary fibrosis due to Free radical formation
+
+### 67. Phthirus Pubis... LICE!
+
+### 68. Superior Messenteric artery is usually at ....... angle?
+
+- 45; pathologic if less < 20
+- compresses 3rd part of duodenum if < 20 degrees
+
+### 69. Fetal Hb begins production ....
+
+- By 8 weeks
+
+### 70. Extremely high affinity for O2?
+
+- 4 gamma chains in Hb
+- Hb Barts
+
+### 71. Leading cause of Foodborne gastroenteritis?
+
+- Campylobacter jejuni (which is also implicated in Guillain barre syndrome)
+
+### 72. Sudain III Stain identifies what in Stool?
+
+- Fat!
+
+### 73. Most severly affected nutrient in malasoprtion: FAT!
+
+### 74. Generalized Malabsorption causing conditions:
+
+1. Defective pancreatic secretiosn
+2. muscosal disorders - Celiac, IBD (crohn, UC)
+3. Bacterial overgrowth (gi surgery, motility)
+4. parisitic: giardia
+
+### 75. Clinical Disinfectants
+
+- Alcohol           | cell membranes, __P__roteins  | not-sporicidal
+- Chlorhexidin      | cell membranes,__C__ytoplasm  | not-sporicidal
+- H202              | destructivefreeradicals       | sporicidal 
+- Iodine            | Halogenation                  | sporicidal 
+
+### 76. Gout causing drugs:
+
+URIC ACID secretion reducers:
+
+1. Diuretics - loop, thiazide
+2. Salicylates - low dose
+3. ACEI
+4. Cyclosporin
+
+### 77. Sjogren syndrome: which cellular infiltration?
+
+- Lymphocytic INfiltration around germinal centers
+- also normal serous acini
+- Salivary gland:
+- ![](https://medicine.uiowa.edu/iowaprotocols/sites/medicine.uiowa.edu.iowaprotocols/files/sjogren%20lobule.jpg)
+
+
+### 78. OCCULOMOTOR NERVE what fibers in and out?
+
+
+- OUTER: Parasympathetic N:
+----- Aneurysmal Compression
+----- EARLY: Dilated pupil
+----- LATE: Ptosis, Opthalmoplegia (Down and Out)
+- INNER: Deep Extraocular Muscle efferents
+----- Diabetic (Infarcts first in the deep fibers): Diabetic Opthalmoplegia
+----- EARLY: Down and Out
+----- Normal reactive Pupil!
+
+
+### 79. common microbes in CF:
+
+- Pseudomonas 
+- S. Aureus
+
+### 80. Excocrine Insufficency progressive:
+
+- CF
+
+### 81. M.Tb pathogenesis:
+
+- tb enters lungs --> alveolar sacs --> Macs eat them --> There is inhibition of Phagosomes and lysosomes --> unchecked growth --> migrate to Lymphnodes --> Macs present antigens (APC) to naive Th0 cells --> Th0 differentiats to Th1 --> Th1 migrates to the site in th elungs --> Th1 secrets INF-gamma and IL2 --> Intracullar killing and granuloma formation
+
+### 82. Anti-PD1 antibodies / mechanism?
+
+If the tumor cell expresses PD-L1 and B7, it avoids T Cell destruction
+- CancerCell--(b7)==(CD28)--TCell
+- CancerCell--(MHC)==(TCR)--TCell
+- CancerCell--(PDL1)==(PD1)--TCELL
+- CancerCell--(B7)==(CTLA-4)--TCell
+- ![](https://d1gk4lfg3bst7c.cloudfront.net/media/wysiwyg/Blog-Images/Cancer_Immunotherapy_PD-1.png)
+
+
