@@ -58,6 +58,15 @@ _tight occludes and forms barriers_
 
 ### 8. Intracellular Ca regulation -Sarcolemma Muscle contraction
 
-- Action potential reaches NMJ inside Sarcolemma --> 3Na/Ca Exchanger (Na influx, Ca efflux in the T-Tubule space --> Ca reenters Cytoplasm via L-Type Ca Channel --+> Ca activates RyR2 receptor on the Sarcoplasmic reticulum --> Ca from Sarcoplasmic Reticulum effluxes into Cytoplasm --> binds to Troponin C --> Muscle contraction
+- Action potential reaches NMJ inside Sarcolemma --> 3Na/Ca Exchanger (Na influx, Ca efflux in the T-Tubule space --> Ca reenters Cytoplasm via L-Type Ca Channel --+> Ca activates RyR2 channel on the Sarcoplasmic reticulum --> Sarcoplasmic Reticulum effluxes its Ca into Cytoplasm through the RyR2 channel --> binds to Troponin C --> Muscle contraction;
+- After contraction, Myosin is detached upon binding of new ATP --> Ca-attached-to-troponin C is realeased --> Ca sequestered back into Sarcoplasmic Reticulum through the __SERCA2__ channel
+
+### 9. GFR Autoregulation
+
+- Dec BP --> Dec RPF (Reduced Hyderostatic PRessure) --> Dec GFR 
+    - Dec GFR --+> RAAS --> Eferent Arteriole Constriction --> Improved  GFR
+    - Dec GFR --+> Afferent Arteriole Dilation --> Improved  GFR
+        - Improved GFR --> Inc FF
+
 
 
