@@ -64,3 +64,13 @@ CIs are for estimating population mean from a sample dataset (which is a subset 
 
 - Formula: `CI = Mean +/- (1.96 x StdErrMean)`
 
+
+### Confidece Intervals vs Standard deviation
+
+Sd is for a given dataset and reflects the mean range within that sample
+
+where as
+
+CI does not describe the sample, it is an inferred value of where the true mean of the population might lie.
+
+
