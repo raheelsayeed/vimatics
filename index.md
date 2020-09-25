@@ -24,9 +24,24 @@ layout: default
 </ul>
 {% endfor %}
 
+## Talks
+
+- _sep 22, 2020_: [DPHARM](https://theconferenceforum.org/conferences/disruptive-innovations-us/2020-speaking-faculty/raheel-sayeed) [slides](https://docs.google.com/presentation/d/1tI-p5yNvynPx5xqF8NKXJOPPoUrye54bUnAqnw-4V3Q/edit?usp=sharing)
+- _nov 16, 2020_: [AMIA 2020](https://www.amia.org/amia2020/systems-demonstrations)
+
+-------------
+
+## Papers
+
+- [smartmarkers](https://www.nature.com/articles/s41746-020-0218-6)
+- [federeated deep learning](https://arxiv.org/abs/1811.11400)
+
 ## Apps
 
 - LabGear ([iOS][ios-labgear]) & ([Android][android-labgear]): Pocket Lab Tests Reference for Physicians
+
+-------------
+
 
 ## Code
 
@@ -36,11 +51,6 @@ layout: default
 
 [ios-labgear]: https://apps.apple.com/us/app/labgear-medical-lab-tests/id350942163
 [android-labgear]: https://play.google.com/store/apps/details?id=com.smartddx.labgearessentials&hl=en_US
-
-## Talks
-
-- _sep 22, 2020_: [DPHARM](https://theconferenceforum.org/conferences/disruptive-innovations-us/2020-speaking-faculty/raheel-sayeed)
-- _nov 16, 2020_: [AMIA 2020](https://www.amia.org/amia2020/systems-demonstrations)
 
 --------------------
 
