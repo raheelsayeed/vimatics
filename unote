@@ -1,8 +1,4 @@
 #!/bin/bash
 
-ex $yourfile <<EOEX
-  :i
-  my text to insert
-  .
-  :x
-EOEX
+
+git add . && git commit -m "upost" && git push origin master
