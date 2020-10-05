@@ -28,7 +28,7 @@ tags: [endocrine]
 
 #### CONCEPT: patients with Type1DM or chronic pancreatitis eventually may have higher __hypoglycemic__ events
 
-- Eventually pancreatic alpha cells get damanged. Less production of Glucose!
+- Eventually pancreatic alpha cells get damanged --> Decreased Glucagon release --> Less production of Glucose!
 
 #### Lisosomal disease:
 
@@ -92,7 +92,11 @@ tags: [endocrine]
 - NE ---|PMNT|--> Epi 
 - promoted by Cortisol
 - lack of cortisol reduces Epi production
+- expression of PMNT is upregulated by Cortisol (Permissive Action)
 
 
 
+#### Loss of smell + gonadal dysgenesis = KALLMAN syndrome
 
+- Loss of GnRH producing secretory neurons in Hypothalamus --> Decreasd LH/FSH 
+- Defective migration --> Olfactory placade
