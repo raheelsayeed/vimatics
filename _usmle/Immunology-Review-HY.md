@@ -36,4 +36,4 @@ tags: [Immunology, review]
 - acute: pervascular mononuc infiterates
 - chronic: submucosal lymphocytic inflammation
 
-### 
+### Endotoxic shock: Lipopolysaccharide --> Lipid A 

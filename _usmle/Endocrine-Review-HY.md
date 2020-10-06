@@ -60,11 +60,12 @@ tags: [endocrine]
 
 - uw-id=585
 - NECROLYTIC MIGRATORY ERYTHEMA
-- blistering erythematic plaques with central clearing
+- blistering erythematic plaques with central clearing --> brown or bronze colored
 - groin, face, extrimities
 
-#### Female athelete --> Low BMI --> Reduced circulating Leptin, less Fat stores --> Leptin --(-)> GnRH --> Decrease FSH, LH --> Decreased Estrogen --> Amenorrhea
+#### Female athelete --> Low BMI --> Less fat stores --> Reduced circulating Leptin --> Leptin --(-)> GnRH (pulsatile) --> Decrease FSH, LH --> Decreased Estrogen --> Amenorrhea
 
+- LEPTIN inhibits GnRH
 - Functionaly Hypothalamic Amennorhea (FHA)
 
 #### Layers of Adrenal Cortex (Outer to Inner) --> G F R 
