@@ -7,6 +7,11 @@ tags: [dailyreview]
 
 1. 292: Cardiac Action Potential
 
+# CVS
+
+- Heart Murmurs: Extra sounds!
+
+
 # Biochemistry
 
 2. Lisosomal storage diseases
