@@ -33,11 +33,11 @@ tags: [endocrine, review]
 
 ### Hypercholesterolemia, Familial Dyslipedmias: Key signs
 
-1. Type1: plasma LPL defect --> incrased Chylomicron --> __Acute Pancreatitis__, milky appearing retinal vasculature (lipemia retinalis), eruptive xanthomas (small yellowish papules) 
+1. Type1: plasma LPL defect --> incrased Chylomicron, TG --> __Acute Pancreatitis__, milky appearing retinal vasculature (lipemia retinalis), eruptive xanthomas (small yellowish papules) 
     - creamy layer in supernatent
 1. Type2: LDL Receptor defect --> Inc LDL (plasma) --> __Tendon Xanthomas__, __Xanthelasmas(medial eyelids)__, __Premature CAD__
 3. Type3: ApoE defect -->  Inc VLDL, Chylomicrons --> __Tuboeruptive Palmar Xanthomas__
-4. Type4: ApoA-V defect --> Inc TG, VLDL --> Insulin sensitivity decreased --> DM
+4. Type4: ApoA-V defect --> Inc TG(>1000), VLDL --> Insulin sensitivity decreased --> DM
 
 - Xanthelasmas: dermal accumulations of macrophages containing cholesterol, TG
 
