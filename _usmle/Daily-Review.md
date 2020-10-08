@@ -16,6 +16,7 @@ tags: [dailyreview]
 
 2. Lisosomal storage diseases
 3. Glycogen Storage diseases
+    - Cori: debranching: alpha1,6 glucosidase: mild hypoglyemia
 
 
 # Respiratory:
