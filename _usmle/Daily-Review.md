@@ -3,6 +3,10 @@ layout: post
 tags: [dailyreview]
 ---
 
+# Patho
+
+- Necrosis
+
 # Physiology
 
 1. 292: Cardiac Action Potential
@@ -18,6 +22,9 @@ tags: [dailyreview]
 3. Glycogen Storage diseases
     - Cori: debranching: alpha1,6 glucosidase: mild hypoglyemia
 
+# Pyschiatry: 
+
+- Time table / gant chart 
 
 # Respiratory:
 
