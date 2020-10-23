@@ -37,3 +37,8 @@ tags: [Immunology, review]
 - chronic: submucosal lymphocytic inflammation
 
 ### Endotoxic shock: Lipopolysaccharide --> Lipid A 
+
+### Dendritiv/APC --> IL12 --> Th1 --> InfGamma/IL2 --> +Macs --> phaglolysosomes destroy bacteria particularly intracellular (TB) --> Tb.
+
+- Tb Cavitation --> upperloabs --> takes months! (unlike abscess)
+
