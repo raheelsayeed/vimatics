@@ -26,15 +26,17 @@ layout: default
 
 ## Talks
 
+
 - _sep 22, 2020_: [DPHARM](https://theconferenceforum.org/conferences/disruptive-innovations-us/2020-speaking-faculty/raheel-sayeed) [slides](https://docs.google.com/presentation/d/1tI-p5yNvynPx5xqF8NKXJOPPoUrye54bUnAqnw-4V3Q/edit?usp=sharing)
 - _nov 16, 2020_: [AMIA 2020](https://www.amia.org/amia2020/systems-demonstrations)
+- _nov 2018_: [AMIA 2018](https://knowledge.amia.org/67852-amia-1.4259402/t008-1.4262115/t008-1.4262116/2976057-1.4262126/2975528-1.4262123?qr=1)
 
 -------------
 
 ## Papers
 
-- [smartmarkers](https://www.nature.com/articles/s41746-020-0218-6)
-- [federeated deep learning](https://arxiv.org/abs/1811.11400)
+- [SMART Markers: collecting patient-generated health data as a standardized property of health information technology](https://www.nature.com/articles/s41746-020-0218-6)
+- [FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record](https://arxiv.org/abs/1811.11400)
 
 ## Apps
 
