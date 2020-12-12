@@ -35,6 +35,7 @@ layout: default
 
 ## Papers
 
+- _[JAMIA](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa227/6031254)_ A proposal for shoring up Federal Trade Commission protections for electronic health record–connected consumer apps under 21st Century Cures
 - _[Nature Digital Medicine](https://www.nature.com/articles/s41746-020-00358-4)_ Push Button Population Health: The SMART/HL7 FHIR Bulk Data Access Application Programming Interface
 - _[Nature Digital Medicine](https://www.nature.com/articles/s41746-020-0218-6)_ SMART Markers: collecting patient-generated health data as a standardized property of health information technology
 - _[Neurips Conf](https://arxiv.org/abs/1811.11400)_ FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record
