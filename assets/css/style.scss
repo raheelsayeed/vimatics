@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body { 
+    background: #FFFFFF;
+    color: #000000
+}
+
 header {
   display: none;
 }
