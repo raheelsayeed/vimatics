@@ -5,24 +5,27 @@ layout: default
 # {% for post in site.posts  %}
 # <a href="{{ post.url }}">{{ post.title }}</a>
 # {% endfor %}
-
+# {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+# {% for year in postsByYear %}
+# <h2 id="{{ year.name }}">{{ year.name }}</h2>
+# <ul aria-label="posts from {{ year.name }}">
+#   {% for post in year.items %}
+#   <li>
+#     <a href="{{ post.url }}">{{ post.title }}</a>
+#   </li>
+#   {% endfor %}
+# </ul>
+# {% endfor %}
 ---
 
 # vi_matics 
 --------------------
 ## Posts
 
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-<h2 id="{{ year.name }}">{{ year.name }}</h2>
-<ul aria-label="posts from {{ year.name }}">
-  {% for post in year.items %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts  %}
+<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
+
 
 ## Talks
 
