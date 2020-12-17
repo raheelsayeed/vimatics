@@ -23,7 +23,7 @@ layout: default
 ## Posts
 
 {% for post in site.posts  %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 
