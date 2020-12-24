@@ -30,8 +30,15 @@ tags: [acid-base, review]
 3. Chronic Hypoxemia --> Inc EPO --> Inc RBC count
 - Alkalosis causes LEFT SHIFT --> Reduced O2 delivery to tissues --> Eventually RBCs increase 2,3 BPG to increase O2 delivery`
 
-> 
 
 -----------------------------------
 
 
+# GastroIntestinal System
+
+
+### Acute Ischemic Colitis
+
+- Ischemia --> Bowel undergoes anerobic metabolism --> Lactate accumulation --> __Anion Gap Metabolic Acidosis__ 
+- Acidosis -+-> Renal Amniogenesis --> Renal epithelial cells [[ Glutamine --> NH3 + HCO3 ]]
+- Glutamine --> Glutamate --> alphaketoglutamate --> glucose + CO2
