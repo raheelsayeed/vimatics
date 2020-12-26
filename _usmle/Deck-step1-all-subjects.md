@@ -52,10 +52,12 @@ tags: [step1, usmle, deck]
 
 
 
-### 11. FGF-23
+### 11. FGF-23: Released in Response to HyperPhosphatemia
 
 - Analogue of PTH
 - Reduces 1alphaHydroxylase --> decrease Calcitriol
+- produced by OSTEOCYTES
+- Earliast Marker of HyperPhosphatemia
 - Needtoverify: _downregulation of NPT gene reduces PO4 absorption_ 
 - ![](https://www.researchgate.net/profile/Patricia_Schenck/publication/236137676/figure/fig13/AS:282664826359819@1444403954203/Megalin-mediated-tubular-recovery-of-vitamin-D-metabolites-following-glomerular.png)
 
