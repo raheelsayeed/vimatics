@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Hacker Mode USMLE
 permalink: /usmle/
 ---
