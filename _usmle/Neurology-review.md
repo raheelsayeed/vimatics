@@ -37,4 +37,18 @@ tags: [neurology, cns]
 
 # Orthostatic Htn --> Lisnorpil 
 
+# BZD --> avoid in elderly --> falls,fractures,cognitive impairement, delirium; give ramelteon for sleep
 
+- also avoid TCAs, antihistamines due to strong anticholinergic effect, sedation, falls
+
+
+# Kid with both Absense and Tonic-clonic seizure: Drug of choice --> Valproic acid. If only absence, then Ethosuccimide
+
+# Focal onset seizures --> CBZ, phenytoin, gabapentin (narrow spectrum antiepileps). 
+
+
+# Tetanus --> CLinical diagnosis only!; no freakin toxin assay!
+
+- toxin mediated blockade of inhibitory interneurons at the level of anterior horn cells
+
+# Nucleous Cerelus --> panic attacks
