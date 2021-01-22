@@ -27,3 +27,11 @@ tags: [anatomy]
 
 - paralysis of __DELTOID, TERESMINOR__ 
 - sensory loss of lateral forarm 
+- DELTOID injury ---> Loss of abduction 30-100 degrees
+
+## Drooping of shoulder, Impaired abduction of arm > 100 degrees, lateral displacement of scapula ----> TRAPEZIUS (SPINAL ACCESSORY N, 12) 
+
+- __SPINAL ACCESSORY N__ also supplis --> __SCM__ 
+- injury Posterior Triangle of Neck
+
+## WINGED SCAPULA, loss of assistance of elevation of arm upward ---> Long Thoraci N injuring Serratus Anterior
