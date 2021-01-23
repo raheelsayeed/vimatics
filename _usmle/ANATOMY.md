@@ -35,3 +35,9 @@ tags: [anatomy]
 - injury Posterior Triangle of Neck
 
 ## WINGED SCAPULA, loss of assistance of elevation of arm upward ---> Long Thoraci N injuring Serratus Anterior
+
+
+## SHOULDER Dislocation? Upper arm extreme activity (baseball pitch) --> Arm Flexing, loss of cutaneous sensation over lateral forarm --> Musculocutaneous Nerve --> C5-7
+
+- supplies biceps brachi and brachialis (FLEXORS)
+-  Coracobrachialis (ADDUCTS ARM)`
