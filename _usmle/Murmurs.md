@@ -49,4 +49,10 @@ tags: [cvs, murmurs]
 - Afterload increases
 - handgrip, squatting
 
+### LOUD P2 component
 
+- Pulmonary Arterial Hypertension --> forceful closure of the value (LOUD P2) --> progressive RV __Concentric HYpetrophy__ --> __Left parasternal heave__ 
+
+### Delayed P2 and Soft  P2 Component
+
+- Pulmonary Valve Stenosis

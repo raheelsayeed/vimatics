@@ -14,13 +14,26 @@ tags: [anatomy]
 
 - Ulnar claw deformity: Distal ulnar nerve
 
+---- 
+
+
+# Median Nerve
+
+## Medial/Lateral cords --> with Brachial Artery between biceps and triceps --> Forearm --> coarses between the medial and ulnar heads of PRONATOR TERES and traverses ---> between flexar digitorums superficialis and flexar digitorum profundus
+
 
 ## Carpal tunnel: pregnancy, hypothyroidism --> compression: median nerve --> weakness of first 2 fingers
+
+------
+
+# Radial N
 
 ## Midshaft humerus fracture --> radial nerve injury
 
 - wrist drop
 - sensory loss: dosrso lateral side of forearm
+
+------
 
 
 ## Fracture of head of humerus --> __Axillary Nerve__ injury 
@@ -41,8 +54,3 @@ tags: [anatomy]
 
 - supplies biceps brachi and brachialis (FLEXORS)
 -  Coracobrachialis (ADDUCTS ARM)`
-
-
-## Prostate surgery injury --> Erectile dysfunction --> injury to prostatic plexus (coming from pelvic splanchnic nerves) --> outflow to lesser and greater cavernous nerves 
-
-## L1,L2 injury --> cremasteric reflux
