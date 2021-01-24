@@ -41,3 +41,8 @@ tags: [anatomy]
 
 - supplies biceps brachi and brachialis (FLEXORS)
 -  Coracobrachialis (ADDUCTS ARM)`
+
+
+## Prostate surgery injury --> Erectile dysfunction --> injury to prostatic plexus (coming from pelvic splanchnic nerves) --> outflow to lesser and greater cavernous nerves 
+
+## L1,L2 injury --> cremasteric reflux
