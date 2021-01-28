@@ -9,7 +9,7 @@ Not that I am in the stock market, but only because I never witnessed a _financi
 - Close at: 347.51+199.53 (+134.84%)
 - After hours: 292.00 -55.51 (-15.97%)
 
-What [__Chamath Palihapitiya__][chamath] full CNBC interview [here](https://www.youtube.com/watch?v=DYZHtF-tV0k)
+What [__Chamath Palihapitiya__][chamath] full CNBC interview [here](https://www.youtube.com/watch?v=DYZHtF-tV0k). Actually, archive this [thread](https://twitter.com/therecount/status/1354489122983968769?s=20)
 
 [chamath]: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
 
