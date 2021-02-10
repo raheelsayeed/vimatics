@@ -14,6 +14,8 @@ tags: [anatomy]
 
 - Ulnar claw deformity: Distal ulnar nerve
 
+## Posterial Dislocation of Medial epicondyle --> Ulnar injury 
+
 ---- 
 
 
@@ -24,6 +26,7 @@ tags: [anatomy]
 
 ## Carpal tunnel: pregnancy, hypothyroidism --> compression: median nerve --> weakness of first 2 fingers
 
+## Anteromedial supracondylar dislocation --> MedianN injury and Brachial Artery injury --> Loss of radial pulse 
 ------
 
 # Radial N
@@ -32,6 +35,9 @@ tags: [anatomy]
 
 - wrist drop
 - sensory loss: dosrso lateral side of forearm
+
+## Anterolateral supracondylar dislocation --> Radial N injury
+
 
 ------
 
