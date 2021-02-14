@@ -4,12 +4,13 @@ tags: [biostatistics, formulae]
 ---
 
 
+### Mode is not sensitive to outliers --> measures only the most frequent observed value
 
 ### Central Tendency
 
 - Center of Normal distribution
 - Mean: avg
-- Mode: most frequent
+- Mode: most frequent observed value
 - Median 
     - Odd = Middle number is Median
     - Even = Avg of Middle two numbers

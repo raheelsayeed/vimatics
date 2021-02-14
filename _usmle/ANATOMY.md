@@ -16,6 +16,8 @@ tags: [anatomy]
 
 ## Posterial Dislocation of Medial epicondyle --> Ulnar injury 
 
+
+
 ---- 
 
 
@@ -27,6 +29,7 @@ tags: [anatomy]
 ## Carpal tunnel: pregnancy, hypothyroidism --> compression: median nerve --> weakness of first 2 fingers
 
 ## Anteromedial supracondylar dislocation --> MedianN injury and Brachial Artery injury --> Loss of radial pulse 
+
 ------
 
 # Radial N
