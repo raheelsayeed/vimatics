@@ -63,3 +63,13 @@ tags: [anatomy]
 
 - supplies biceps brachi and brachialis (FLEXORS)
 -  Coracobrachialis (ADDUCTS ARM)`
+
+
+
+-----------------------
+
+
+# Tongue 
+
+### Recurrent and External Laryngeal N --> Motor fibres --> vocal cords 
+### Internal Laryngeal N --> Sensory fibres --> Sensory/Autonomic  (afferent limb of cough reflex) from mucosa superior to the vocal cords
