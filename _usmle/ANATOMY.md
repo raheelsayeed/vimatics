@@ -44,11 +44,13 @@ tags: [anatomy]
 
 ------
 
+# Shoulder
+
 
 ## Fracture of head of humerus --> __Axillary Nerve__ injury 
 
 - paralysis of __DELTOID, TERESMINOR__ 
-- sensory loss of lateral forarm 
+- sensory loss of lateral shoulder 
 - DELTOID injury ---> Loss of abduction 30-100 degrees
 
 ## Drooping of shoulder, Impaired abduction of arm > 100 degrees, lateral displacement of scapula ----> TRAPEZIUS (SPINAL ACCESSORY N, 12) 

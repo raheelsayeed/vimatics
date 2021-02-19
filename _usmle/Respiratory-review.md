@@ -21,6 +21,7 @@ tags: [respiratory]
 
 ### Propofol: 
 
+- Highly lipophilic drugs --> pass into the brain tissue because it receives the major blood supply --> (rapid action) --> gradually other organs take in --> reduced availability in th ebrain --> effect wanes
 - gaba agnoist, 
 - higly lipophilic 
 - long term sedation
