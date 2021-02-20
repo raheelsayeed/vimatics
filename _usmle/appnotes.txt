@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Immunology
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Infections.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Infertility_and_Fibrosis_of_Uterus.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/InformedConsent.md
+https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Inheritance.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Intracranial-Hemorrhages.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Lung-metastasis.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Medical-Biostatistics-1.md
@@ -73,6 +74,7 @@ https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/Withdrawal
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/amino-acids-arginine-glutamate-histidine-phenylalanine-tryptophan.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/anti-Diabetics-sglt-inhibitor-glomerular-hyperfiltration.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/appnotes.txt
+https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/beta-blockers.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/caplan-syndrome.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/digoxin-toxicity.md
 https://raw.githubusercontent.com/raheelsayeed/vimatics/master/_usmle/drugs-atyptical-antipsychotics.md
