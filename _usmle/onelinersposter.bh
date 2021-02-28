@@ -1,0 +1,9 @@
+#!/bin/bash
+
+filename='OneLiners.md'
+n=1
+
+while read line; do 
+echo -e "---\nlayout: post\ntags: [oneliner]\n---\n\n\n### OneLiner\n\n$line" > OneLiner_$n.md
+n=$((n+1))
+done < $filename
