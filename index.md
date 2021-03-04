@@ -19,13 +19,16 @@ layout: default
 ---
 
 # vi_matics 
+
 --------------------
+
 ## Posts
 
 {% for post in site.posts  %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+----------------------
 
 ## Talks
 
