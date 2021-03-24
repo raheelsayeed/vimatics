@@ -47,6 +47,7 @@ layout: default
 - _[Nature Digital Medicine](https://www.nature.com/articles/s41746-020-0218-6)_ SMART Markers: collecting patient-generated health data as a standardized property of health information technology
 - _[Neurips Conf](https://arxiv.org/abs/1811.11400)_ FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record
 
+----------------------------------------------------------------------
 ## Apps
 
 - LabGear ([iOS][ios-labgear]) & ([Android][android-labgear]): Pocket Lab Tests Reference for Physicians
@@ -65,12 +66,12 @@ layout: default
 
 --------------------
 
-### [USMLE Notes](https://vimatics.com/usmle/)
+## [USMLE Notes](https://vimatics.com/usmle/)
 
 
 --------------------
 
-Mohammed Raheel Sayeed, MD; current home: [bch](https://chip.org) [hms](https://hms.harvard.edu);
+Mohammed Raheel Sayeed, MD; current home:  [DBMI-HMS](https://dbmi.hms.harvard.edu); [CHIP-BCH](https:/chip.org); 
 [vi](https://vim.org) for informatics;
 <a href="https://twitter.com/rsayeed">@rsayeed</a>
 

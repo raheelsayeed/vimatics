@@ -56,3 +56,9 @@ tags: [cvs, murmurs]
 ### Delayed P2 and Soft  P2 Component
 
 - Pulmonary Valve Stenosis
+
+### Holosystolic 
+
+- MR, AR, VSD
+
+### Location MR --> 
