@@ -71,7 +71,6 @@ layout: default
 
 --------------------
 
-Mohammed Raheel Sayeed, MD; current home:  [DBMI-HMS](https://dbmi.hms.harvard.edu); [CHIP-BCH](https:/chip.org); 
-[vi](https://vim.org) for informatics;
+Mohammed Raheel Sayeed, MD; current home:  [DBMI-HMS](https://dbmi.hms.harvard.edu); [CHIP-BCH](https:/chip.org); [vi](https://vim.org) for informatics;
 <a href="https://twitter.com/rsayeed">@rsayeed</a>
 
