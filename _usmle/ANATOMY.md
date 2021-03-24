@@ -66,7 +66,14 @@ tags: [anatomy]
 - supplies biceps brachi and brachialis (FLEXORS)
 -  Coracobrachialis (ADDUCTS ARM)`
 
+-----------------------
 
+# Leg
+
+### Injury to Fibula Neck fracture --> Common Fibular(Peroneal)  Nerve --> Superficial/Deep fibular nerve injury 
+
+- Loss of sensation of dorsum of foot
+- loss of eversion of foot
 
 -----------------------
 
