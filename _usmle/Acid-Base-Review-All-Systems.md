@@ -11,6 +11,16 @@ tags: [acid-base, review]
 - Renal Compensation begins after 72 hours (3 days) 
 # Respiratory System
 
+### Hypoxemia -- Low PaO2 in the setting of also low PAO2 --> Normal A-a gradient? 
+
+- High Altitutde, FiO2 is low
+- Alveolar Hypoventilation (due to Chemoreceptor Trig --> respiratory drive)
+- High A-a gradient?
+ - V/Q mismatch
+ - Diffusion impairement
+ - Right to left shunt
+
+
 ### Emphysema: Chronic Respiratory Acidosis w/ Metabolic Compensation
 
 - Inc CO2 retention --> Inc Acidosis
@@ -47,7 +57,11 @@ tags: [acid-base, review]
 # GastroIntestinal System
 
 
-### Excessive Vomitting --> High pH, High HCO3 --> __Metabolic Alkalosis --> Compensated: Hypoventilation --> pCO2 retention. 
+### Excessive Vomitting --> Loss of HCL --> H+ loss, High pH, High HCO3 --> __Metabolic Alkalosis --> Compensated: Hypoventilation --> pCO2 retention. 
+
+- Vomiting --> Reduced Renal Perfusion --> RAAS --> Inc Na/H20 retension and Excretion of K+ and H+ --> Metabolic Alkalosis
+- RAAS --> Inc HCO3 reabsorption
+- Hypokalemia --> K+/H+ exchanger --> Loss of H+ 
 
 
 ### Acute Ischemic Colitis
