@@ -2,6 +2,32 @@
 layout: post
 ---
 
+# April 22 2021: Friday
+
+- Prednisone/steroids promote osteoclastic activity AND inhibit osteoblastic activity --> promote bone resorption
+
+- Esophagus --> Ring like indentations, linear furrowing scattered whitish papules (e. microabscess) --> Eosinophilic Esophagitis 
+
+- Enlarged __BUT Nontender Gallbladder__ --> Pancreatic adenocarcinoma --> __Painless Obsstructive Jaundice__
+
+- CD31 -- PECAM1 --> Transmigration
+- CD54 -- ICAM --> Adhesion
+
+- Aspirin --> mitochondrial injury --> impaired fatty acid metabolism --> microvesicular steatosis --> small fat vacuoles in the cytoplasm __without__ necrosis --> REYE SYNDROME
+
+
+- Chelating agents
+    - Phosphate binder: __Calcium acetate__ --> exchanges calcium for phosphate -- use din endstage kidney
+    - sodium polystryene rasin: exchange intraluminal sodium with __potassium__ --> used for Hyperkalemia
+   
+- Rifaximin: also used for travellers diarrhea --> inhibits bacterial RNA synthesis by binding to DNA-dep-RNA polymerase
+
+- SECRETIN --> when there is acid and fat in the small intestine --> secretin released from Duodenum --> (-) Gastrin release, (+) HCO3 release
+    - __IN GASTRINOMA__: opposite --> secretin --(+)> Gastrin release
+
+- HepA: frequent travellers, young adults --> hepatocyte necrosis(swelling) & apoptosis(shrinkage)
+
+
 # April 20 2021: Tuesday
 
 
