@@ -35,3 +35,20 @@ layout: post
 - bundle branch block --> Wide QRS Complex
 - Narrow QRS --> Escaped Junctional beat
 
+
+- Ectopic ACTH --> Sever Hypercortisol --> activation of mineralocorticoids --> Aldosterone
+ - For example: in Cancers -- ectopic acth production (lungs)
+
+- Serine Protease --> PCSK9 ---> inhibited by evolumab
+
+- Where are catalase, uric acid oxidase, d-aminoacid oxidase produced?
+ - Peroxisomes, high in liver and kidney --> detoxifies!
+
+
+- snRNP: a non coding RNA, transcribed by RNA Polymerase II which then associates with specific proteins.
+ - __Splicesosome__: Collection of snRNPs
+
+
+ - Associations of Polycythemia Vera
+  - Gouty arhtirtis (cell turn over!)
+  - peptic ulcer disease (viscus blood -- !flow)
