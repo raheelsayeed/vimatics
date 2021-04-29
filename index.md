@@ -18,11 +18,7 @@ layout: default
 # {% endfor %}
 ---
 
-# vi_matics 
-
---------------------
-
-## Posts
+# Posts
 
 {% for post in site.posts  %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
