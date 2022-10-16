@@ -4,7 +4,7 @@ title: LabGear
 permalink: /labgear/
 --- 
 
-# Award winning Pocket tool for Medical Laboratory Tests for quick reference in clinical rounds.
+# Award winning Pocket tool for Medical Laboratory Tests for quick reference in clinical rounds
 
 -----------
 
@@ -21,6 +21,9 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Your **custom reference intervals and bookmarks and notes are synced across devices via iCloud**.
 - Inbuilt **links** to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
 - Direclty open [MedCalX](https://medcalx.ch) from within the app
+
+
+## In the news
 
 
 
