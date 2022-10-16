@@ -18,19 +18,19 @@ Clinical rotations is where medical references are needed the most, with the **h
 
 ### Screenshots
 
-<div style="display: grid; grid-gap: 10px; grid-template-columns: auto auto auto auto; ">
+<div style="display: grid; grid-gap: 20px; grid-template-columns: auto auto auto auto; ">
   <div class="gallery__img" >
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/main.png" style="width: 200px;    border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/main.png" style="width: 240px;    border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
 	</div>
    <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/detail.png" style="width: 200px;  border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/detail.png" style="width: 240px;  border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
 	</div>
     <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/panels.png" style="width: 200px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/panels.png" style="width: 240px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
 	</div>
 
   <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/bookmarks.png" style="width: 200px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/bookmarks.png" style="width: 240px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
 	</div>
 
 </div>
