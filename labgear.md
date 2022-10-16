@@ -15,6 +15,29 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Fishbone schematic panel images
 
 
+```html
+<script>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 15px;
+}
+</script>
+
+<div class="gallery">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div>
+
+```
 [Please read our privacy policy](/labgear/privacy-policy)
 
 
