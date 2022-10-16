@@ -4,7 +4,9 @@ title: LabGear
 permalink: /labgear/
 --- 
 
-# Award winning Pocket tool for Medical Laboratory Tests, LabGear packs in all that is needed for quick reference in clinical rounds. for iPhone, iPad & iPod Touch
+# Award winning Pocket tool for Medical Laboratory Tests, LabGear packs in all that is needed for quick reference in clinical rounds.
+
+-----------
 
 Clinical rotations is where medical references are needed the most, with the **highly intuitive interface** of LabGear, you've got over 300+ lab tests at your fingertips in a way never presented before:
 
@@ -14,6 +16,7 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Inbuilt links to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
 - Fishbone schematic panel images
 
+### Screenshots
 
 <div style="display: grid; grid-gap: 10px; grid-template-columns: auto auto auto auto; ">
   <div class="gallery__img" >
