@@ -37,11 +37,15 @@ github:
 
 collections:
     - usmle
+    - labgear
 
 collections:
     usmle:
         output: true
         permalink: /usmle/:path/
+    labgear:
+        output: true
+        permalink: /labgear/:path/
 
 
 
