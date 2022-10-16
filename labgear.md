@@ -14,14 +14,6 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Support for Conventional Units (US) and SI units
 - Fishbone schematic Panels for quick access 
 
-## Subscribe on iOS
-
-- **Detailed** explanations, **differential** diagnoses, clinical presentations
-- Be up to date with the most recent related **publications** and abstracts right within the app
-- Your **custom reference intervals and bookmarks and notes are synced across devices via iCloud**.
-- Inbuilt **links** to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
-- Direclty open [MedCalX](https://medcalx.ch) from within the app
-
 
 ## In the news
 
@@ -53,6 +45,14 @@ Clinical rotations is where medical references are needed the most, with the **h
 
 </table>
 
+## Faster & Quick reference for your rounds
+
+- **Detailed** explanations, **differential** diagnoses, clinical presentations
+- Be up to date with the most recent related **publications** and abstracts right within the app
+- Your **custom reference intervals and bookmarks and notes are synced across devices via iCloud**.
+- Inbuilt **links** to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
+- Direclty open [MedCalX](https://medcalx.ch) from within the app
+
 
 -----------
 
@@ -73,9 +73,6 @@ Clinical rotations is where medical references are needed the most, with the **h
 	</div>
 
 </div>
-
----------
-
 
 
 
