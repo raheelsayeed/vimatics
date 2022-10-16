@@ -14,9 +14,9 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Support for Conventional Units (US) and SI units
 - Fishbone schematic Panels for quick access 
 
-## Available with Subscription (iOS)
+## Subscribe on iOS
 
-- Detailed explanations, **differential** diagnoses, clinical presentations
+- **Detailed** explanations, **differential** diagnoses, clinical presentations
 - Be up to date with the most recent related **publications** and abstracts right within the app
 - Your **custom reference intervals and bookmarks and notes are synced across devices via iCloud**.
 - Inbuilt **links** to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
@@ -25,6 +25,36 @@ Clinical rotations is where medical references are needed the most, with the **h
 
 ## In the news
 
+<table>
+<tr>
+<Td><a href="http://medscape.com">Medscape</a></td>
+<td><em>"15 smartphone apps to improve your practise"</em></td>
+</tr>
+
+<tr>
+<Td><a href="https://www.genengnews.com/resources/labgear/">GENETIC Eng</a></td>
+<td><em>"Best Science App"</em></td>
+</tr>
+
+<tr>
+<Td><a href="https://www.amsa.org/apps-recommended-first-year-medical-students/">American Medical Student Association</a></td>
+<td><em>"Apps Recommended by First-Year Medical Students"</em></td>
+</tr>
+
+<tr>
+<Td><a href="https://www.thepalife.com/the-best-apps-for-physician-assistant-students-and-professionals/">Physician Assistant Life</a></td>
+<td><em>"The Best Apps for Physician Assistant Students and PA Professionals"</em></td>
+</tr>
+
+<tr>
+<Td><a href="https://www.medicaltechnologyschools.com/medical-lab-technician/useful-med-tech-apps">Medical Technology schools</a></td>
+<td><em>"15 USEFUL MOBILE APPS FOR MEDICAL TECHNOLOGISTS (2022-2023)"</em></td>
+</tr>
+
+</table>
+
+
+-----------
 
 
 <div style="display: grid; grid-gap: 20px; grid-template-columns: auto auto auto auto; ">
