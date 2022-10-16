@@ -23,7 +23,7 @@ Clinical rotations is where medical references are needed the most, with the **h
     grid-gap: 15px;
 }
 .gallery__img {
-    width: 100px;
+    width: 30px;
     object-fit: cover;
 }
 </script>
