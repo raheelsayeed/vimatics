@@ -15,32 +15,21 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Fishbone schematic panel images
 
 
-<script>
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(8, 5vw);
-    grid-gap: 15px;
-}
-.gallery__img {
-    width: 10%;
-    object-fit: cover;
-}
-img {
-  border-radius: 8px;
-}
-</script>
-
-<div class="gallery">
-  <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/main.png" />
+<div style="display: grid; grid-gap: 10px; grid-template-columns: auto auto auto auto; ">
+  <div class="gallery__img" >
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/main.png" style="width: 150px;    border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
 	</div>
    <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/detail.png" />
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/detail.png" style="width: 150px;  border: 1px solid gray; object-fit: cover; border-radius: 8px;"/>
 	</div>
     <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/panels.png" />
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/panels.png" style="width: 150px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
 	</div>
+
+  <div class="gallery__img">
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/bookmarks.png" style="width: 150px; object-fit: cover;  border-radius: 8px;  border: 1px solid gray;"/>
+	</div>
+
 </div>
 
 
