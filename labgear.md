@@ -30,13 +30,13 @@ Clinical rotations is where medical references are needed the most, with the **h
 
 <div class="gallery">
   <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgear-icon.png" />
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/main.png" />
 	</div>
    <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgear-icon.png" />
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/detail.png" />
 	</div>
     <div class="gallery__img">
-  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgear-icon.png" />
+  <img src="https://raw.githubusercontent.com/raheelsayeed/vimatics/master/assets/labgearscreenshots/panels.png" />
 	</div>
 </div>
 
