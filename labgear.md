@@ -20,7 +20,7 @@ Clinical rotations is where medical references are needed the most, with the **h
 - Be up to date with the most recent related **publications** and abstracts right within the app
 - Your **custom reference intervals and bookmarks and notes are synced across devices via iCloud**.
 - Inbuilt **links** to Lab Tests Online.org, Wikipedia and an inbuilt browser for searching online, straight from within the app
-- Direclty open [MedCalX](medcalx.ch) from within the app
+- Direclty open [MedCalX](https://medcalx.ch) from within the app
 
 
 
@@ -43,13 +43,6 @@ Clinical rotations is where medical references are needed the most, with the **h
 
 ---------
 
-
-[Please read our privacy policy](/labgear/privacy-policy)
-
-
-<footer>
-&#10084; Designed by clinician's for clinicians
-</footer>
 
 
 
