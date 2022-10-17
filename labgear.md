@@ -4,7 +4,7 @@ title: LabGear
 permalink: /labgear/
 --- 
 
-# Award winning pocket tool for medical laboratory tests for quick reference in clinical rounds
+# Award winning pocket tool for medical laboratory tests for reference in clinical rounds
 
 -----------
 
